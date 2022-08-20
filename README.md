@@ -1,5 +1,8 @@
 # Nekofun
-일러스트(SFW, NSFW) 크롤링 라이브러리(동기, 비동기 지원)
+일러스트(SFW, NSFW) 크롤링 라이브러리(동기, 비동기 지원)<br>
+***
+[Docs](https://github.com/VoidAsMad/nekofun/wiki/Docs)
+***
 ## How to use
 ### Install
 ```
